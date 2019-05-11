@@ -1,0 +1,7 @@
+﻿为了方便大家交换、查看代码，统一安装如下软件：
+
+1、Microsoft Visual Studio 2013；
+
+2、Visual Assist 10.9;
+
+3、Qt 5.5, Qt createor 3.6.1, Qt VS Addin 1.2.5；
